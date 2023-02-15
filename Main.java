@@ -45,6 +45,6 @@ class Main {
       }
    }
    public static void game() {
-
+      System.out.println("e");
    }
 }
